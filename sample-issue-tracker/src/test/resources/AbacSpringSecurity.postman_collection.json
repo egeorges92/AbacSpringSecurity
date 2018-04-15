@@ -145,8 +145,8 @@
 					}
 				],
 				"body": {
-					"mode": "formdata",
-					"formdata": []
+					"mode": "raw",
+					"raw": ""
 				},
 				"description": ""
 			},
@@ -165,8 +165,8 @@
 					}
 				],
 				"body": {
-					"mode": "formdata",
-					"formdata": []
+					"mode": "raw",
+					"raw": ""
 				},
 				"description": ""
 			},
@@ -182,16 +182,11 @@
 						"key": "Authorization",
 						"value": "Basic cG0xOnBhc3N3b3Jk",
 						"description": ""
-					},
-					{
-						"key": "Content-Type",
-						"value": "application/json",
-						"description": ""
 					}
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n\t\"name\": \"FirstProject\",\r\n    \"description\": \"The first project\"\r\n}\r\n"
+					"raw": ""
 				},
 				"description": ""
 			},
